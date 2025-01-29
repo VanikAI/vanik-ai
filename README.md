@@ -16,7 +16,7 @@ Revolutionary personal AI companion that seamlessly blends blockchain technology
 
 ## Quick Start 🚀
 ```bash
-git clone https://github.com/yourusername/vanik-ai.git
+git clone https://github.com/vanikai/vanik-ai.git
 cd vanik-ai
 pip install -e .
 vanik --testnet
