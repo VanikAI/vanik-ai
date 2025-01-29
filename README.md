@@ -1,4 +1,6 @@
-# VANIK 🤖🔗
+<div align="center">
+  <img src="https://github.com/VanikAI/vanik-ai/blob/421fd8dbbccc7ac22f051a6fcdd33b6743ed61ec/img/VANIK.jpeg" alt="Project Banner" width="800">
+</div>
 **Web3 Emotional Companion with Blockchain Task Management**
 
 [![Code Coverage](https://codecov.io/gh/yourusername/vanik-ai/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/vanik-ai)
