@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/VanikAI/vanik-ai/blob/421fd8dbbccc7ac22f051a6fcdd33b6743ed61ec/img/VANIK.jpeg" alt="Project Banner" width="800">
+  <img src="https://github.com/VanikAI/vanik-ai/blob/421fd8dbbccc7ac22f051a6fcdd33b6743ed61ec/img/VANIK.jpeg" alt="Project Banner" width="1200">
 </div>
 **Web3 Emotional Companion with Blockchain Task Management**
 
