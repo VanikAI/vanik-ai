@@ -1,2 +1,1 @@
-## System Architecture
-![Architecture Diagram](architecture.png)
+Coming soon.
