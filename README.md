@@ -1,7 +1,6 @@
 # VANIK 🤖🔗
 **Web3 Emotional Companion with Blockchain Task Management**
 
-[![GitHub Actions](https://github.com/yourusername/vanik-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/VanikAI/vanik-ai/actions)
 [![Code Coverage](https://codecov.io/gh/yourusername/vanik-ai/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/vanik-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
