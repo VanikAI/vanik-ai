@@ -6,7 +6,7 @@
 [![Code Coverage](https://codecov.io/gh/yourusername/vanik-ai/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/vanik-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Next-generation AI companion combining emotional intelligence with blockchain-powered task management.
+Revolutionary personal AI companion that seamlessly blends blockchain technology with advanced artificial intelligence. Designed as a friendly, supportive, and highly customizable virtual companion. The primary goal of VANIK AI is to empower individuals to manage their digital and emotional lives seamlessly. By integrating AI and blockchain, VANIK creates a secure and transparent ecosystem while ensuring personalized support and companionship.
 
 ## Features ✨
 - 🧠 Emotion-aware conversational engine
