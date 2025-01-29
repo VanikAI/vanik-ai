@@ -1,0 +1,10 @@
+[VANIK AI]
+name = "vanik-ai"
+version = "0.1.0"
+description = "Web3 Emotional Companion"
+authors = [{name = "VANIK", email = "support@vanik.ai"}]
+license = {text = "MIT"}
+
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
