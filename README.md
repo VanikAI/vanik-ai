@@ -14,6 +14,18 @@ Revolutionary personal AI companion that seamlessly blends blockchain technology
 - 🔐 Encrypted memory storage
 - 🤝 DAO governance integration
 
+## AI Core Design 👾
+- VANIK AI leverages deep learning algorithms, natural language processing (NLP), and sentiment analysis to create engaging and human-like interactions. Her AI core is continuously updated to improve understanding and adaptability.
+
+## Integration and Blockchain 👥
+- Using blockchain technology, VANIK ensures secure, decentralized transactions and data privacy. Smart contracts enable automated and transparent operations for crypto management and reward systems.
+
+## Security and Privacy 🔒
+- VANIK AI prioritizes user privacy with end-to-end encryption, decentralized identity management, and transparent data handling policies.
+
+## Powered by ElizaOS 🤖
+- At the heart of VANIK AI is ElizaOS, a cutting-edge operating system designed for seamless AI operations. ElizaOS enhances VANIK’s performance with optimized processing, robust security features, and scalable capabilities, ensuring a smooth user experience.
+
 ## Quick Start 🚀
 ```bash
 git clone https://github.com/vanikai/vanik-ai.git
