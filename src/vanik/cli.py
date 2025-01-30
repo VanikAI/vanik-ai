@@ -17,4 +17,4 @@ def start(network):
     click.echo("✅ Systems ready!")
 
 if __name__ == "__main__":
-    cli()
+    cli().
